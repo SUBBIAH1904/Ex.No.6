@@ -3,9 +3,10 @@
 ## Name: Subbiah S
 ## Reg no : 212223220111
 
-# Aim: Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
+## Aim: 
+Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
 
-#AI Tools Required:
+## AI Tools Required:
 
 # Explanation1:
 Experiment the persona pattern as a programmer for any specific applications related with your interesting area. 
@@ -116,7 +117,8 @@ How the AI Works:
 
 4.Google Generative AI (Gemini) → optional extra insights.
 
-# OUTPUT:
+## OUTPUT:
 [EXP 6 .pdf](https://github.com/user-attachments/files/23023558/EXP.6.pdf)
 
-# Result: The corresponding Prompt is executed successfully.
+## Result: 
+The corresponding Prompt is executed successfully.
